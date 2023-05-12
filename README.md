@@ -1,1 +1,1 @@
-# spotify-end-to-end-data-pipeline
+# Spotify End-to-End Data Pipeline (AWS)
