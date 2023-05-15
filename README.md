@@ -1,4 +1,4 @@
-# Spotify End-to-End Data Pipeline Project (AWS) 
+# Spotify Data Pipeline Project (AWS) 
 
 ### Project Description:
 
